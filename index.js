@@ -15,6 +15,7 @@ function createApp() {
     <meta name="viewport" content="width=device-width">
     <html lang="en">
     <head>
+    <title>webplayerctl</title>
     <style>
     body {
       display: flex;
